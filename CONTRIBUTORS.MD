@@ -4,7 +4,7 @@
 - Lau (Senior Data Analyst)
 
 ## Data Analytics Manager
-- DAM
+- TBD
 
 ## Junior Data Analysts
 - Junior 1
